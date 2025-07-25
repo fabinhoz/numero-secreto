@@ -1,3 +1,4 @@
+//comentário do título do Projeto
 let listaDeNumerosSorteados = [];
 let numeroLimite = 50;
 let numeroSecreto = gerarNumeroAleatorio();
