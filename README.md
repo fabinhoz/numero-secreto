@@ -5,7 +5,7 @@
 <br/>
 🚀 Amante de automações, bots e aplicações que resolvem problemas do mundo real.
 <br/>
-📍 Localizado em: Campinas, SP - Brasil
+📍 Localizado em: Brasil
 </p>
 
 ---
